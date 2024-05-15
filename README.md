@@ -47,7 +47,7 @@ To use this project, follow the steps below:
 
 2. Install the required dependencies: pip install -r requirements.txt
 
-3. Download the dataset from here ([Kaggle Steel Defect Segmentation Competition](https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/data)).
+3. Download the dataset from here https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/data.
 4. Run the mentioned notebook
 
 ## Contact Information
