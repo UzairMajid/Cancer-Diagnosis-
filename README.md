@@ -27,17 +27,6 @@ Since our training data is imabalanced,  to evaluate the different models, we us
 ### Performance Comparision
 Out of all the models, logistic regression with class balancing acheived lowest log loss:1.031190254308968
 
-## Directories
----
-The project is structured as follows:
-
-bin: This directory contains the source code files required to run the analysis.
-
-1. unet-eda-and-modelling-baseline: This Python notebook is the main entry point for executing the project. It contains the code that reads the dataset and performs various data processing, modelling and visualization tasks.
-1. 2. unet-tesing-and-predictions: This Python notebook demonstrates the testing and prediction phase for the constructed Unet model.
-scripts: This directory contains the script of models used for this projects (Baseline and superior Unets).
-
-plots: This directory contains the plots produced during this project.
 
 ## User Guide
 ---
