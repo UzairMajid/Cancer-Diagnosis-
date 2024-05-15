@@ -27,7 +27,7 @@ Since our training data is imabalanced,  to evaluate the different models, we us
 ### Performance Comparision
 Out of all the models, logistic regression with class balancing acheived lowest log loss:1.031190254308968
 
-##Directories
+## Directories
 ---
 The project is structured as follows:
 
@@ -43,11 +43,11 @@ plots: This directory contains the plots produced during this project.
 ---
 To use this project, follow the steps below:
 
-1. Clone the repository: git clone [https://github.com/fahaddeshmukh/image-seg](https://github.com/UzairMajid/Gene-classfication-for-cancer-prediction)
+1. Clone the repository: git clone https://github.com/UzairMajid/Gene-classfication-for-cancer-prediction
 
 2. Install the required dependencies: pip install -r requirements.txt
 
-3. Download the dataset from here (Kaggle Steel Defect Segmentation Competition).
+3. Download the dataset from here ([Kaggle Steel Defect Segmentation Competition](https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/data)).
 4. Run the mentioned notebook
 
 ## Contact Information
